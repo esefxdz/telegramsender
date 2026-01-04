@@ -4,7 +4,6 @@ import asyncio
 from telethon import TelegramClient, errors
 from datetime import datetime
 
-# --- YOUR VARIABLES ---
 API_ID = xd      
 API_HASH = ''  
 PHONE = ''
